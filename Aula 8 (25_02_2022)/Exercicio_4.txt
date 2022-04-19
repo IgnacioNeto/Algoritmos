@@ -1,0 +1,10 @@
+repita
+ <comando>
+ate-que <comando>
+
+---
+Obs:
+A função do comando repita é que sempre será executado pelo menos 1 vez as ações da tela.
+---
+
+Ler/exibir 3 nomes e 3 idades

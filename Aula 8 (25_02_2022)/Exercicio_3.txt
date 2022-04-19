@@ -1,0 +1,1 @@
+Fazer um Loop com Flag (sinalizador) para fim da execução.

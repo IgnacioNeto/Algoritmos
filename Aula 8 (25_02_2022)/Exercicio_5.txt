@@ -1,0 +1,1 @@
+*Usando o loop 'repita.. até-que', monte um algoritmo que mostre uma contagem de 1 a 1000.

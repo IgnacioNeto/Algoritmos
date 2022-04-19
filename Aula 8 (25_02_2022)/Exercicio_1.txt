@@ -1,0 +1,1 @@
+Ler e exibir o nome e idade de 3 pessoas

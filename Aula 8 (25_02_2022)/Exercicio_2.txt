@@ -1,0 +1,5 @@
+*Desenvolva um Algoritmo em fluxograma e/ou pseudocódigo que leia e exiba o "nome" de um curso,
+a "descrição" dele e a "unidade" do Senac onde é ministrado.
+
+*Usando a estrutura de repetição 'enquanto .. faça .. fim-enquanto', faça com seu algoritmo
+leia e exiba as informações (nome, descrição e unidade) "06 vezes".
